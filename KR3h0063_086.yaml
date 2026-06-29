@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/krp/v1/juan/86
+seq: 86
+front:
+  text: 欽定四庫全書石渠寶笈卷四十二
+  hash: sha256:95c7bb2a193541f666ba37f8b403ad94c6448260fac307b8a3c121fddb40174d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_086-1a, image: WYG0825/WYG0825-0578a.png}
+body:
+  text: 貯畫禪室列朝人書卷上等唐虞世南臨蘭亭帖一卷畫冊上等唐宋元名畫大觀一冊畫卷上等宋米友仁瀟湘圖一卷宋江參千里江山圖一卷元黃公望富春山居圖一卷
+  hash: sha256:5f1153052f324fbd71c2e8c3439ce7a2072b8c654b9b8aa414c7759fd9f29e51
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷四十二目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_086.txt
+hash: sha256:b4cf686c3e1ccf9135e4c680ba8fa8d0a1469166152ac9ad34690e5811e4eecd

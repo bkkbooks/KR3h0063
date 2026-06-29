@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/WYG/v1/juan/16
+seq: 16
+front:
+  text: 欽定四庫全書石渠寶笈卷七目録
+  hash: sha256:446c52e6fca9d5535c0baa297b4a6ae530e21000f1b3cd4935a92048e8ea52e3
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_016-1a, image: WYG0824/WYG0824-0210a.png}
+body:
+  text: 貯乾清宫七列朝人書畫書軸上等宋朱子書題懸崖水詩元趙孟頫書七言律詩元趙孟頫書七言律詩元趙孟頫書七言律詩元趙孟頫書師説元張雨書七言律詩明董其昌書飲中八仙歌明董其昌臨顔真卿書明董其昌節書月賦明董其昌書周美成詞書軸次等宋蘇軾書滿庭芳詞元趙孟頫書五言律詩元趙孟頫臨帖元趙孟頫書太極圖説明祝允明書仰山堂銘明文徴明書七言律詩明文徴明書七言絶句明董其昌書李白宫詞明董其昌書五言絶句明董其昌書五言絶句明董其昌書七言絶句明董其昌書七言絶句明董其昌書七言絶句國朝人書畫書軸上等沈荃臨米芾書張英書七言律詩陳奕禧書七言絶句張照臨董其昌書栁公權蘭亭詩帖陳邦彦書盛京賦書軸次等劉若宰書墨菊詩沈荃臨顔真卿書石渠寶笈卷七目録
+  hash: sha256:5f8f79a4577f83dfae5ed184cc5fc8919a292efafce10bd67e4370ed1913b89b
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷七目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_016.txt
+hash: sha256:d0bc3bfce852a7c6b7ddc680b3b4920e5ce6b4ac4b6d71bd8cfcd7bfe4c1a736

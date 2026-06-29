@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/WYG/v1/juan/24
+seq: 24
+front:
+  text: 欽定四庫全書石渠寳笈卷十一目録
+  hash: sha256:3f47f7e4f43b27cbca78fd1a8f0b0bbaaeaeb34dae5afed9ece13be46133d80b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_024-1a, image: WYG0824/WYG0824-0295a.png}
+body:
+  text: 貯養心殿列朝人書冊次等唐孫䖍禮書孝經宋蔡蘇黄米四家書宋黄庭堅書王羲之論書宋黄庭堅書興慶侍宴詩元趙孟頫書孝經元趙孟頫書孝經元趙孟頫尺牘詩翰元趙孟頫書雪賦元趙孟頫書蘇軾稼説元趙孟頫書鏡智禪師銘元趙孟頫尺牘明文徴明自書詩帖明文彭書千文明王寵摹東方朔像贊明劉麟詩翰明王問詩帖明許初竹岡阡表明邱坦書陳情表明董其昌臨争坐位帖明董其昌臨聖教序明董其昌書座右銘明董其昌書宋詞三首明董其昌書天馬賦明董其昌襍書明陳元素牋牘明人牋牘明王元懋節書世説新語明人便面書明人書扇明人扇頭書無名氏書畫書冊次等宋人摹褚國朝人書畫目錄書冊次等王鐸書集句陳奕禧書漢唐碑考張照襍書戴臨襍書
+  hash: sha256:6e54660f834650fb52879272ba325c60d1f141d470a0f310a3a31bc8fa4314e8
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷十一目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_024.txt
+hash: sha256:995e41601101b80d80eda1b580f478eecab7931127a620916c8220d19958fc0d

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/krp/v1/juan/48
+seq: 48
+front:
+  text: 欽定四庫全書石渠寶笈卷二十三
+  hash: sha256:5273bb88007bf6c93b81e2db3da0b26d4f063126392897d8b6c8f23c4fe6caa0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_048-1a, image: WYG0825/WYG0825-0039a.png}
+body:
+  text: 貯重華宫國朝人書畫書册上等王鑑倣古王鑑倣古惲向倣古惲夀平寫生惲夀平山水花卉合璧惲夀平摹古王翬圖繪王原祁畫避暑山莊三十六景蔣廷錫鵓鴿譜陳枚畫耕織圖閨秀錢陳書繪歷代帝王道統圖慎郡王允禧畫盤山十六景慎郡王允禧畫盤山十六景畫册次等惲夀平花卉畫幅集册王敬銘山水冷枚畫游泳莊環泠枚畫歷朝賢后故事鄒一桂花卉余省寫生花卉列朝人書畫書畫合册上等明唐寅畫終南十景吳奕書國朝人書畫書畫合册次等冷枚畫聖帝明王圖院本陶冶圖戴臨書圖說赫達資畫麗姝萃秀
+  hash: sha256:2b9e1af2bb010c5b5a875c33620a365fbc04ad96219dacc7ab8ad2fde8ee1000
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷二十三目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_048.txt
+hash: sha256:f2bcd015652c59302c5b72d47a5bfec852a883ec4b37ddd7e50c17a3544c9245

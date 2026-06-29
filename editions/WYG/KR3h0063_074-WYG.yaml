@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/WYG/v1/juan/74
+seq: 74
+front:
+  text: 欽定四庫全書石渠寳笈卷三十六目録
+  hash: sha256:bd040d7a41d89534d36ed394a61bb9c2d74587606ae8862b7f48876bc4aea26f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_074-1a, image: WYG0825/WYG0825-0427a.png}
+body:
+  text: 貯御書房九列朝人書畫合卷上等晉顧凱之畫女史箴並書晉顧凱之洛神圖宋蘓軾畫古栢圖張即之書畫松詩宋馬和之畫齊風圖宋髙宗書小雅六篇馬和之繪圖宋高宗書小雅六章馬和之繪圖宋高宗書女孝經馬和之補圖元周朗畫杜秋圖元趙原初蘭亭圖元王冕畫梅趙奕書梅花詩明沈周落花圖並詩明唐寅夜飲圖並書歌明文徴明雪山圖並書明王榖祥摹趙孟堅水仙明董其昌畫晝錦堂圖並書記書畫合卷次等唐閻立夲畫十八學士圖于志寜書贊宋李公麟九歌圖米芾書詞宋劉松年樂志論圖明宋克書陶潛詩並畫竹石小景明仇英蘭亭修禊圖明文徴明溪山高逸圖明文徴明西苑圖並詩明文徴明畫後赤壁賦圖明文徴明陸治書畫合璧明董其昌書畫合璧明董其昌書畫合璧
+  hash: sha256:31107af9fae95847d4accdb5c11ddfd8e43210d3e81b4bd13ce183f8d1ede59e
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷三十六目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_074.txt
+hash: sha256:45310499b6ef31f9587b56d9b1c7fe5f89af9078dfd722b0e3369bbc0ffe49de

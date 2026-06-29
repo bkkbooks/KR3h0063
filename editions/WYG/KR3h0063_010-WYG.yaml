@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/WYG/v1/juan/10
+seq: 10
+front:
+  text: 欽定四庫全書石渠寳笈卷四
+  hash: sha256:5a820f259b4924e74c8e40ca5e348c8950eade4b1feaabeaa55d506d5f3d01e6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_010-1a, image: WYG0824/WYG0824-0107a.png}
+body:
+  text: 貯乾清宫列朝人書畫目録畫册上等厯朝名繪明謝時臣林壑雲泉各景明王時敏畫杜陵詩意明人畫扇四册畫册次等厯朝名繪元錢選花卉明趙淅畫二十四候花信風圖明董其昌山水明人畫扇四册無名氏書畫目錄畫册上等名畫薈萃二册畫册次等宋人山水花鳥元人花卉明人花卉名畫薈萃三册畫扇集册國朝人書畫目録畫册上等惲夀平倣古王翬山水沈宗敬山水沈宗敬倣元人畫余省畫鳥譜十二册畫册次等赫奕山水髙其佩摹諸家畫沈宗敬山水慎郡王允禧畫十萬圖佟世晉山水孫阜瀟湘八景郎世寜寫生花卉周鯤山水僧濟花卉畫扇集册列朝人書畫目錄書畫合册上等明董其昌書畫合璧書畫合册次等明董其昌書畫合璧國朝人書畫目録書畫合册次等周璕九歌圖胡同夏書詞
+  hash: sha256:939266271748b71686447a266b278fcd8f726bf211c482bd396b4707a3b832c2
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷四目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_010.txt
+hash: sha256:472fb73c9394e8c1edef01785404a068f1ea53fc479adb6b6856aba9942060ae

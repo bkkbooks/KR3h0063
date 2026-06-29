@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/krp/v1/juan/40
+seq: 40
+front:
+  text: 欽定四庫全書石渠寶笈卷十九
+  hash: sha256:72e60e9ed6e22546d2bb2469a308fbaf32916c2663a787d0a9332e846f00151d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_040-1a, image: WYG0824/WYG0824-0543a.png}
+body:
+  text: 貯三希堂舊貯乾清宫今移貯列朝人書冊上等晉王羲之快雪時晴帖書卷上等舊貯御書房今移貯晉王獻之中秋帖晉王珣伯遠帖
+  hash: sha256:2d556fc09f1baf56d793dd9cb2a7df40d4df4a0b6de61244b9283c3da126494f
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷十九目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_040.txt
+hash: sha256:fa04383c81c62d25a2096d564f4fda68fbdd4040d68bbfb08eebaad74bbe3339

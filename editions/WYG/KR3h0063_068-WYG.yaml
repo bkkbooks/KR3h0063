@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/WYG/v1/juan/68
+seq: 68
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_068-1a, image: WYG0825/WYG0825-0330a.png}
+body:
+  text: 渠寳笈卷三十三目録貯御書房六列朝人畫卷上等元趙孟頫鵲華秋色元趙孟頫浴馬圖元趙孟頫甕牖圖元錢選觀梅覔句圖元王振鵬龍池競渡圖元顧安風雨竹元王䝉太白山圖元呉鎮山水元王冕雪梅圖元姚廷美有餘閒圖元王庭吉凌波圖明宣宗花鳥圖明冷謙蓬莱仙奕圖明徐賁仿巨然惠崇二家筆意明王紱萬竹秋深圖明王紱萬竹秋深圖明王紱畫竹明陳叔起王紱合作瀟湘秋意圖明邉景昭胎仙圖明姚公綬梅花明人上方石湖圖詠明沈周溪山茒舍圖明沈周法宋人筆意明沈周仿巨然山水明沈周林壑幽深圖明鄒衡緑香泉圖明唐寅春風酒盞圖明仇英赤壁圖明文徴明三友圖明文徴明秋林飛瀑圖明文徴明滸谿草堂圖明陳淳擕琴圖明陳淳冩生花卉明陳淳冩生明陳淳花卉明陳栝冩生游戱明陳樾冩生花卉明錢榖芙蓉湖贈别圖明王榖祥冩生明謝時臣山水明陸治蘆雁冩生明項聖謨松風圖明孫克宏文窻清供圖明孫克宏寫生花卉明孫克宏冩生花卉明周之冕百卉圖明陳粲冩生花卉
+  hash: sha256:0d7bc7358ee1b69ad24b25db910bc41e80e59e26b1befd64adf9f893e90f4bab
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷三十三目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_068.txt
+hash: sha256:9c92f3cdd298333d9c3e82bf33195a642697eac352512f1508627ede1b6d516b

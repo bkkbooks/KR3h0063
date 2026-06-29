@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/WYG/v1/juan/46
+seq: 46
+front:
+  text: 欽定四庫全書石渠寶笈卷二十二目録
+  hash: sha256:5faa952abb2c2eb46a6ada779c274d9a817a3d0f6f5af23d39624fafface0028
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_046-1a, image: WYG0825/WYG0825-0020c.png}
+body:
+  text: 貯重華宫三列朝人書畫畫册上等歴代名繪紈扇畫册集古圖繪明項聖謨冩生明人畫扇集册明人畫扇集册明文氏畫扇集册畫册次等名繪薈萃集古圖繪歴代名繪宋徽宗花鳥冩生厯代集繪名畫薈萃厯朝名繪明仇英花鳥明陸遠摹古無名氏書畫畫册次等宋人歴代琴式歴朝名人圖繪歴代畫幅集册紈扇集錦紈扇畫册宋元紈扇畫册明人倣宋元諸家山水明人百獸率舞圖刻絲畫册上等附鏤繪集錦
+  hash: sha256:aff6a45f8f8ea35edbac9796fc7d102ec5616e46b5c54cbbc8056ce0d1016d57
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷二十二目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_046.txt
+hash: sha256:0f18d0608436396aa08f8104cc6d8c5486018040ec873b658884743832f14499

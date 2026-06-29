@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3h0063/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:10.149803'
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_000.txt
+hash: sha256:32b9dbec2b911888980bd9c2c453fbe4fc8d5d8cfa524857741486a59ac6b567

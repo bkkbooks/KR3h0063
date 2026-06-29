@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/WYG/v1/juan/42
+seq: 42
+front:
+  text: 欽定四庫全書石渠寶笈卷二十
+  hash: sha256:e23b7e1b63c16cb674ecca27378f022f75a27031dec4abb963dd111504984fb0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_042-1a, image: WYG0824/WYG0824-0551c.png}
+body:
+  text: 貯重華宫一四朝宸翰書畫合冊御筆詩經全圖書畫合璧御製豳風圖並書御筆生香樂意御筆渉筆成趣御筆臨古御臨蔡襄謝賜御書詩帖御臨蘇軾詩帖御臨黄庭堅五言古詩御臨米芾尺牘御臨董其昌書枯樹賦御臨董其昌書樂志論御筆澄海樓圖御筆葡萄蘭花御筆秋英八種御筆泉石蘭竹御筆秋花三種御臨趙孟頫蘭蕙圖御臨趙孟頫浴馬圖御臨倪瓚修竹學亭圖御筆蒼松暎日圖御筆三餘逸興園御筆九思圖御臨李公麟明君出塞圖御臨唐寅文徴明蘭亭書畫合璧御臨蘇軾梅花詩帖御臨趙孟頫節書歸去來詞帖御臨俞和詩帖御筆秋𤓰一軸御筆烟波釣艇圖御筆冩去鶴歸僧詩意御筆冬卉冩生御臨文徴明蘆汀放鴨圖御筆松齡眉夀圖御筆瑞芝圖御筆秋蘭詩畫合壁
+  hash: sha256:1bd7df68f77b1e696629d259a828d64f3d9c0f5e5eea7d1886911aad1348d516
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷二十目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_042.txt
+hash: sha256:2097a9048de308b16b31429f2cd6824066eb5bd89ae5ef696b7afef9c5057af6

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/WYG/v1/juan/44
+seq: 44
+front:
+  text: 欽定四庫全書石渠寶笈卷二十一目録
+  hash: sha256:9ed705f00b61377df21969b62e66e2beb40de212be9756107f6f968e5d809750
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_044-1a, image: WYG0824/WYG0824-0585a.png}
+body:
+  text: 一貯重華宫二列朝人書畫書冊上等宋四家集冊宋元寶翰元人法書元趙孟頫集冊元趙孟頫書説補標題元趙孟頫書急就章元鮮于樞行草書元俞和急就章釋文明人翰墨明祝允明書劉基詩明文董畫扇集冊書冊次等宋米芾寶章待訪録厯朝名家集冊明王寵書遊包山詩明陸一岳諸體篆書明董其昌臨褚遂良蘭亭敘明人便面無名氏書畫目録書冊上等明人書治平金鑑國朝人書畫目録書冊上等張照書九符張照書九符張照臨董其昌書書冊次等沈荃自書雜詩沈荃倣古二十則王圖炳書合錦勵宗萬書九符
+  hash: sha256:a93d798cd5996d355101eeb248bc5c53f4e37f22ae0e78043df6b90354a50a8c
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷二十一目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_044.txt
+hash: sha256:7f620625cb839c2d57148089456b9477f5b640eaacf3a80ffdeb3053dd804d8f

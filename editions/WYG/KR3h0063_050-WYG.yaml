@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0063/WYG/v1/juan/50
+seq: 50
+front:
+  text: 欽定四庫全書石渠寶笈卷二十四
+  hash: sha256:f015eafafc158a712a1a61437c6277a2d19ca6f9a816ee7c6fc77d26e7db60fe
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_050-1a, image: WYG0825/WYG0825-0074c.png}
+body:
+  text: 貯重華宫列朝人書畫書卷上等宋蘇軾自書二頌元趙孟頫天冠山詩帖明文徴明書赤壁賦明董其昌書濬路馬湖記書卷次等明文徴明自書詩帖明文徴明自書詩帖明文徴明書蘭亭序明莫是龍供花閒語明董其昌臨蘇軾黄庭堅帖國朝人書畫書卷次等王鐸擬古帖列朝人書畫畫卷上等宋徽宗五色鸚鵡圖宋徽宗花鳥寫生宋李成茂林遠岫圖宋李成小寒林圖宋祁序江山放牧圖宋李公麟君明臣良圖宋王詵漁村小雪圖宋馬逺江山萬里圖遼陳及之畫貞觀便橋㑹盟圖元吳鎮夏山欲雨圖元吳鎮清溪垂釣圖元盛懋畫烈婦刺虎圖明沈周寫生明沈周寫生花鳥明項聖謨後招隠圖
+  hash: sha256:e094d4e65f2d8732039607e2e13e9cb0ca92582c940ceb2af824b54f3e4e58f9
+metadata:
+  title: 石渠寶笈
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:16:10.149803'
+  juan_title: 卷二十四目録
+  source:
+    repository: kanripo
+    path: KR3h0063/KR3h0063_050.txt
+hash: sha256:70f1d4837f64d5e03e764e2c44a2fc64722a8da6f78f1d6caf8e7d460659355a
