@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR3h0063/krp/v1/juan/32
 seq: 32
 front:
-  text: 欽定四庫全書石渠寶笈卷十五目録
-  hash: sha256:c726f3e0cee8075d89c4a83c5bae55ef60b42175d80d63b374f3f56f69167144
+  text: 欽定四庫全書石渠寳笈卷十五目録
+  hash: sha256:869d1a71e69d30dcef33f921cca963becc4c360ea7a07a2f6a98441f21d4cb58
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_032-1a, image: WYG0824/WYG0824-0439a.png}
 body:
-  text: 貯養心殿明朝人畫卷上等明王紱湖山書屋圖一卷明夏昶竹泉春兩圖明沈周臨錢選忠孝圖一卷明沈周春郊散犢圖一卷明吕紀蘆雁圖一卷明趙汝殷風林羣虎圖一卷明唐寅毅菴小照一卷明唐寅溪山漁隱圖一卷明唐寅事茗圖一卷明仇英漢宫春曉圖一卷明仇英列女圖一卷明文徴明畫松一卷明文徴明真賞齊圖一卷明陳栝三友圖一卷明宋旭沈俊山水合卷明許邦本摹輞川圖一卷
-  hash: sha256:39fa5ae292c500d05c39ed5314721c1229caccf773d9dab17f9d1a5200d18369
+  text: 貯養心殿明朝人畫卷上等明王紱湖山書屋圖一卷明夏㫤竹泉春兩圖明沈周臨錢選忠孝圖一卷明沈周春郊散犢圖一卷明吕紀蘆雁圖一卷明趙汝殷風林羣虎圖一卷明唐寅毅菴小照一卷明唐寅溪山漁隠圖一卷明唐寅事茗圖一卷明仇英漢宫春曉圖一卷明仇英列女圖一卷明文徴明畫松一卷明文徴明真賞齋圖一卷明陳栝三友圖一卷明宋旭沈俊山水合卷明許邦本摹輞川圖一卷
+  hash: sha256:08dd59efd8fb9b9f148887709b014ade677437f0398a4ad7e34da8306cec2208
 metadata:
   title: 石渠寶笈
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3h0063/KR3h0063_032.txt
-hash: sha256:5496a5169e8731cc544215e0e8ddb2200b263bed3a3d7016bfed010a3049dadf
+hash: sha256:c08d8d1a70fcd69842e2ecf1b16bf59286d4e51522dde04f2f8011516d2f8a73

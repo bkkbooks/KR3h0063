@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_046-1a, image: WYG0825/WYG0825-0020c.png}
 body:
-  text: 貯重華宫三列朝人書畫畫册上等歷代名繪紈扇畫册集古圖繪明項聖謨寫生明人畫扇集册明人畫扇集册明文氏畫扇集册畫册次等名繪薈萃集古圖繪歷代名繪宋徽宗花鳥寫生厯代集繪名畫薈萃厯朝名繪明仇英花鳥明陸遠摹古無名氏書畫畫册次等宋人歷代琴式歷朝名人圖繪歷代畫幅集册紈扇集錦紈扇畫册宋元紈扇畫册明人倣宋元諸家山水明人百獸率舞圖刻絲畫册上等附鏤繪集錦
-  hash: sha256:6e5437e4372bccc806ff76f03cdac12ef14949aad84b4d58f2714e65ec7c093c
+  text: 貯重華宫三列朝人書畫畫册上等歴代名繪紈扇畫册集古圖繪明項聖謨冩生明人畫扇集册明人畫扇集册明文氏畫扇集册畫册次等名繪薈萃集古圖繪歴代名繪宋徽宗花鳥冩生厯代集繪名畫薈萃厯朝名繪明仇英花鳥明陸遠摹古無名氏書畫畫册次等宋人歴代琴式歴朝名人圖繪歴代畫幅集册紈扇集錦紈扇畫册宋元紈扇畫册明人倣宋元諸家山水明人百獸率舞圖刻絲畫册上等附鏤繪集錦
+  hash: sha256:aff6a45f8f8ea35edbac9796fc7d102ec5616e46b5c54cbbc8056ce0d1016d57
 metadata:
   title: 石渠寶笈
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3h0063/KR3h0063_046.txt
-hash: sha256:a8b62215735014cf4dbb513e5fa9a1cec48258477c3c8463cca369da57b2ecfd
+hash: sha256:5ca7bcb6a6aea10aaa67a18ec440aad5ef9755769d821f32b32a6f601a54b67c
