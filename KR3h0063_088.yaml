@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_088-1a, image: WYG0825/WYG0825-0610a.png}
 body:
-  text: 貯長春書屋列朝人書冊上等明董其昌雜書畫卷上等元錢選觀鵞圖明唐寅山居圖明文徵明温蘭圖貯隨安室列朝人書冊上等明董其昌書杜詩
-  hash: sha256:39295b8ece5c141ecd09e425f65bc493cf5cce4078b1e0d9338c532f8f7e8da6
+  text: 貯長春書屋列朝人書册上等明董其昌雜書畫卷上等元錢選觀鵝圖明唐寅山居圖明文徵明溫蘭圖貯隨安室列朝人書册上等明董其昌書杜詩
+  hash: sha256:6268863f0cf21c4a1d8c56c72d3cf75dd93939d3198778350478582dae50962d
 metadata:
   title: 石渠寶笈
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3h0063/KR3h0063_088.txt
-hash: sha256:be7f73c60019bfb3c175fbf1dc867165d741ddb060e943838a30311557248e3d
+hash: sha256:71b74dd81df71d2c5414cbc24f4a57ec5ca6f1dcbbdd5997ad37b5d4e97c3c12

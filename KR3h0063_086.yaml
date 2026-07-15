@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3h0063_WYG_086-1a, image: WYG0825/WYG0825-0578a.png}
 body:
-  text: 貯畫禪室列朝人書卷上等唐虞世南臨蘭亭帖一卷畫冊上等唐宋元名畫大觀一冊畫卷上等宋米友仁瀟湘圖一卷宋江㕘千里江山圖一卷元黄公望富春山居圖一卷
-  hash: sha256:0437152d9671c0e753b478220769144e2e01faf706558ebea9d0cdc6e5e74323
+  text: 貯畫禪室列朝人書卷上等唐虞世南臨蘭亭帖一卷畫册上等唐宋元名畫大觀一册畫卷上等宋米友仁瀟湘圖一卷宋江參千里江山圖一卷元黃公望富春山居圖一卷
+  hash: sha256:3f5502188fd5c077595dcfaf82394b226ae008abd681fc5b589d212c0ceab9b0
 metadata:
   title: 石渠寶笈
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3h0063/KR3h0063_086.txt
-hash: sha256:e6724eb75a26b2690fe3a2e3a79f5be42403df6ec97ce8e891be6a62fa6dde44
+hash: sha256:c6c92345fce1900c9a4727c5072c444fe2ec9aef29d564b118fc0edfaf7357e8
